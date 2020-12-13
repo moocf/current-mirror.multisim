@@ -6,3 +6,11 @@ keeping the output current constant regardless of loading.
 **Taught by**: Prof. Subrata Maiti
 
 [Electronics Design Laboratory]: https://github.com/nitrece/electronics-design-laboratory
+
+<br>
+<br>
+
+![](Results/Case%201.png)<br>
+![](Results/IO%20Characteristic.png)<br>
+![](Results/Vary%20Load%201.png)<br>
+![](Results/Vary%20Temperature%201.png)<br>

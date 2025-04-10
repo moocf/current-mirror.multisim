@@ -14,3 +14,5 @@ keeping the output current constant regardless of loading.
 ![](Results/IO%20Characteristic.png)<br>
 ![](Results/Vary%20Load%201.png)<br>
 ![](Results/Vary%20Temperature%201.png)<br>
+
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/current-mirror.multisim)
